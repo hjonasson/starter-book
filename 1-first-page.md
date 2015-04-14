@@ -1,4 +1,4 @@
-# First Page
+# Fyrsta síða
 
 Below are a few simple examples of embedding content with markdown, starting with an image embed.
 
